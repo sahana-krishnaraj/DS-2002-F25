@@ -1,0 +1,54 @@
+[
+    {
+        "course_id": "DS2002",
+        "section": "001",
+        "title": "Data Science Systems",
+        "level": 200,
+        "instructors": [
+            {
+                "name": "Austin Rivera",
+                "role": "Primary"
+            },
+            {
+                "name": "Heywood Williams-Tracy",
+                "role": "TA"
+            }
+        ]
+    },
+    {
+        "course_id": "STAT4630",
+        "section": "001",
+        "title": "Statistical Machine Learning",
+        "level": 400,
+        "instructors": [
+            {
+                "name": "Shan Yu",
+                "role": "Primary"
+            }
+        ]
+    },
+    {
+        "course_id": "STAT4170",
+        "section": "001",
+        "title": "Financial Time Series",
+        "level": 400,
+        "instructors": [
+            {
+                "name": "Jeffrey Woo",
+                "role": "Primary"
+            }
+        ]
+    },
+    {
+        "course_id": "STAT3130",
+        "section": "001",
+        "title": "Design and Analysis of Sample Surveys",
+        "level": 300,
+        "instructors": [
+            {
+                "name": "Justin Weinstock",
+                "role": "Primary"
+            }
+        ]
+    }
+]
